@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>St Michael Iconostasis – St Michael's Antiochian Orthodox Church Kirrawee</title>
+<meta name="description" content="Understanding the Iconostasis of St Michael's Antiochian Orthodox Church Kirrawee – tap any icon to read about it.">
+<meta name="theme-color" content="#1f2b5c">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="St Michael">
+<meta name="application-name" content="St Michael Iconostasis">
+<meta name="format-detection" content="telephone=no">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon-180.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header id="top">
+  <div class="bar">
+    <img class="logo" src="icons/icon-192.png" alt="" width="40" height="40">
+    <div class="apptitle"><strong>St Michael Iconostasis</strong><span>St Michael's Antiochian Orthodox Church Kirrawee</span></div>
+    <button id="listBtn" class="pill" type="button" aria-label="All icons">&#9776; Icons</button>
+  </div>
+</header>
+<main>
+  <div class="hero-title">
+    <div class="orn"><span></span><i>&#9766;</i><span></span></div>
+    <h1>Understanding the Iconostasis</h1>
+    <p class="intro">Tap any outlined icon to open it.</p>
+  </div>
+  <div id="stage-full" class="stage stage-full" data-sec="full">
+    <img src="img/iconostasis.jpg" alt="The iconostasis of St Michael's Antiochian Orthodox Church, Kirrawee" width="3200" height="1687">
+  </div>
+  <h3 class="seclbl">Left side</h3>
+  <div id="stage-left" class="stage" data-sec="left">
+    <img src="img/sec_left.jpg" alt="The iconostasis – left side" width="1260" height="800" loading="lazy">
+  </div>
+  <h3 class="seclbl">Middle</h3>
+  <div id="stage-middle" class="stage" data-sec="middle">
+    <img src="img/sec_middle.jpg" alt="The iconostasis – middle" width="1170" height="1455" loading="lazy">
+  </div>
+  <h3 class="seclbl">Right side</h3>
+  <div id="stage-right" class="stage" data-sec="right">
+    <img src="img/sec_right.jpg" alt="The iconostasis – right side" width="1360" height="820" loading="lazy">
+  </div>
+  <label class="toggle"><input type="checkbox" id="showOutlines" checked> <span>Show outlines</span></label>
+
+  <h2 class="sec" id="iconsHead"><span>All icons</span></h2>
+  <div class="search"><input id="q" type="search" placeholder="Search a saint, feast day or word" autocomplete="off" aria-label="Search icons"></div>
+  <ul id="list" class="list"></ul>
+  <p id="noHits" class="nohits" hidden>No icon matches your search.</p>
+
+  <h2 class="sec"><span>Foreword</span></h2>
+  <details id="foreword" class="foreword"><summary>Read the Foreword</summary><div id="fwBody"></div></details>
+
+  <details class="howto"><summary>Add this app to your home screen</summary>
+    <p><b>iPhone (Safari):</b> tap the Share button, then <i>Add to Home Screen</i>.</p>
+    <p><b>Android (Chrome):</b> tap the menu &#8942;, then <i>Install app</i> or <i>Add to Home screen</i>.</p>
+    <p>After the first visit everything is saved on the phone, so the app also works without internet.</p>
+  </details>
+  <p class="foot"><span class="cross">&#9766;</span><br>St Michael's Antiochian Orthodox Church Kirrawee<br>Works offline after first open.</p>
+</main>
+
+<div id="viewer" class="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="vTitle">
+  <div class="vbar">
+    <button id="vClose" class="pill" type="button">&#8249; Back</button>
+    <span id="vTitle" class="vtitle"></span>
+    <span class="vnav"><button id="vPrev" class="arrow" type="button" aria-label="Previous">&#8249;</button><button id="vNext" class="arrow" type="button" aria-label="Next">&#8250;</button></span>
+  </div>
+  <div id="vBody" class="vbody"></div>
+</div>
+
+<div id="zoom" class="zoom" hidden role="dialog" aria-modal="true">
+  <button id="zClose" class="zclose" type="button" aria-label="Close">&#10005;</button>
+  <div id="zWrap" class="zwrap"><img id="zImg" alt=""></div>
+  <div class="zhint">Pinch or double-tap to zoom</div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
