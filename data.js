@@ -12,7 +12,12 @@ const ENTRIES = [
   "tier": "top",
   "img": "img/icons/last-supper.jpg",
   "where": "Above the Royal Doors, crowning the iconostasis",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "The Mystical Supper - Children's Animation",
+   "channel": "Trisagion Films for Children",
+   "url": "https://www.youtube.com/watch?v=SJejs2tvMy0"
+  }
  },
  {
   "id": "christ",
@@ -25,7 +30,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/christ.webp",
   "where": "Main tier, to the right of the Royal Doors",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "The Birth of Jesus Christ",
+   "channel": "Antiochian Archdiocese",
+   "url": "https://www.youtube.com/watch?v=ylHcMGEzvI4"
+  }
  },
  {
   "id": "theotokos",
@@ -38,7 +48,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/theotokos.webp",
   "where": "Main tier, to the left of the Royal Doors",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "When St. Mary fell asleep",
+   "channel": "Antiochian Archdiocese",
+   "url": "https://www.youtube.com/watch?v=Te0h-ZMqJdM"
+  }
  },
  {
   "id": "michael",
@@ -51,7 +66,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/michael.webp",
   "where": "Main tier, left side (4 of 5 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Great Saints Of Antioch Series: Archangels Michael and Gabriel",
+   "channel": "St Paul's Antiochian Orthodox Church Dandenong",
+   "url": "https://www.youtube.com/watch?v=HmfALQCOg2Q"
+  }
  },
  {
   "id": "john-baptist",
@@ -64,7 +84,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/john-baptist.webp",
   "where": "Main tier, right side (2 of 5 from the Royal Doors)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "The Life of St. John the Forerunner and Baptist",
+   "channel": "Antiochian Archdiocese",
+   "url": "https://www.youtube.com/watch?v=XAi9e5C3iCE"
+  }
  },
  {
   "id": "nektarios",
@@ -77,7 +102,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/nektarios.webp",
   "where": "Main tier, left side (2 of 5 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "ST. NECTARIOS - God's Wondrous Saints, a podcast",
+   "channel": "Ancient Faith Kids",
+   "url": "https://www.youtube.com/watch?v=xzlB2DOAfdc"
+  }
  },
  {
   "id": "raphael",
@@ -90,7 +120,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/raphael.webp",
   "where": "Main tier, right side (4 of 5 from the Royal Doors)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "The Life of St Raphael of Brooklyn | Animated Orthodox Film",
+   "channel": "Antiochian Archdiocese",
+   "url": "https://www.youtube.com/watch?v=33DRl2RaI-s"
+  }
  },
  {
   "id": "christina",
@@ -103,7 +138,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/christina.webp",
   "where": "Main tier, right side (5 of 5 from the Royal Doors)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Great Saints Of Antioch Series: St Christina of Tyre",
+   "channel": "St Paul's Antiochian Orthodox Church Dandenong",
+   "url": "https://www.youtube.com/watch?v=2VUYeqsHjLo"
+  }
  },
  {
   "id": "thekla",
@@ -116,7 +156,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/thekla.webp",
   "where": "Main tier, left side (1 of 5 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Great Saints Of Antioch Series: St Thecla",
+   "channel": "St Paul's Antiochian Orthodox Church Dandenong",
+   "url": "https://www.youtube.com/watch?v=y7bUq2pccgU"
+  }
  },
  {
   "id": "stephen",
@@ -129,7 +174,12 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/stephen.webp",
   "where": "Main tier, right side (3 of 5 from the Royal Doors)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Journey to the Nativity: St Stephanos",
+   "channel": "Greek Orthodox Christian Society Sydney",
+   "url": "https://www.youtube.com/watch?v=QZ1rPpJyjSA"
+  }
  },
  {
   "id": "philip-deacon",
@@ -142,7 +192,8 @@ const ENTRIES = [
   "tier": "main",
   "img": "img/icons/philip-deacon.webp",
   "where": "Main tier, left side (3 of 5 from the left)",
-  "approx": false
+  "approx": false,
+  "video": null
  },
  {
   "id": "peter",
@@ -155,7 +206,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/peter.webp",
   "where": "Apostles tier, left side (8 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Saint Peter - The Foundation of the Church (w/ Frederica Matthews-Green)",
+   "channel": "Ancient Faith",
+   "url": "https://www.youtube.com/watch?v=fFxs9eMolto"
+  }
  },
  {
   "id": "paul",
@@ -168,7 +224,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/paul.webp",
   "where": "Apostles tier, right side (1 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "St Paul's Sunday School: The Life of the Holy Apostle Paul",
+   "channel": "St Paul's Antiochian Orthodox Church Dandenong",
+   "url": "https://www.youtube.com/watch?v=VxX-266PN6w"
+  }
  },
  {
   "id": "john-theologian",
@@ -181,7 +242,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/john-theologian.webp",
   "where": "Apostles tier, right side (2 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "ST. JOHN the THEOLOGIAN - God's Wondrous Saints, a podcast",
+   "channel": "Ancient Faith Kids",
+   "url": "https://www.youtube.com/watch?v=1GBn05OvvJw"
+  }
  },
  {
   "id": "matthew",
@@ -194,7 +260,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/matthew.webp",
   "where": "Apostles tier, left side (7 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "The Life of St. Matthew the Evangelist",
+   "channel": "Ancient Faith",
+   "url": "https://www.youtube.com/watch?v=zzZXlOUFqIw"
+  }
  },
  {
   "id": "luke",
@@ -207,7 +278,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/luke.webp",
   "where": "Apostles tier, left side (6 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "St. Luke the Evangelist - by Presvytera Katie",
+   "channel": "Ancient Faith Kids",
+   "url": "https://www.youtube.com/watch?v=Tx4j8TjkeZ8"
+  }
  },
  {
   "id": "mark",
@@ -220,7 +296,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/mark.webp",
   "where": "Apostles tier, right side (3 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "St Mark the Evangelist - Reading of the Lives of the Saints",
+   "channel": "Ss. Peter and Paul Orthodox Church Syracuse",
+   "url": "https://www.youtube.com/watch?v=HXgDU9PjXck"
+  }
  },
  {
   "id": "james",
@@ -233,7 +314,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/james.webp",
   "where": "Apostles tier, right side (5 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Apostles Fast, 2025: St. James, the Son of Zebedee",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=UT8hgDVE9DM"
+  }
  },
  {
   "id": "andrew",
@@ -246,7 +332,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/andrew.webp",
   "where": "Apostles tier, left side (5 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Apostles Fast, 2025: St. Andrew",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=7hYi13u_j00"
+  }
  },
  {
   "id": "simeon",
@@ -259,7 +350,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/simeon.webp",
   "where": "Apostles tier, right side (4 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Apostles Fast, 2025: St. Simon the Canaanite/Zealot",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=ugW8Br6ZOM4"
+  }
  },
  {
   "id": "bartholomew",
@@ -272,7 +368,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/bartholomew.webp",
   "where": "Apostles tier, left side (4 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Apostles Fast, 2025: St. Bartholomew",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=C1ADRS-VIug"
+  }
  },
  {
   "id": "philip",
@@ -285,7 +386,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/philip.webp",
   "where": "Apostles tier, right side (6 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Holy Apostle Philip (nov 14)",
+   "channel": "Ancient Faith",
+   "url": "https://www.youtube.com/watch?v=IVz8GTIXNqs"
+  }
  },
  {
   "id": "thomas",
@@ -298,7 +404,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/thomas.webp",
   "where": "Apostles tier, left side (3 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "ST. THOMAS the APOSTLE - God's Wondrous Saints, a podcast",
+   "channel": "Ancient Faith Kids",
+   "url": "https://www.youtube.com/watch?v=f_HIWf7rc68"
+  }
  },
  {
   "id": "timothy",
@@ -311,7 +422,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/timothy.webp",
   "where": "Apostles tier, right side (7 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "January 22 - St Timothy",
+   "channel": "Greek Orthodox Christian Society Sydney",
+   "url": "https://www.youtube.com/watch?v=7SvLL1HJgmo"
+  }
  },
  {
   "id": "matthias",
@@ -324,7 +440,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/matthias.webp",
   "where": "Apostles tier, left side (2 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Hidden Saints: Holy Apostle Matthias (w/ Fr. Steven Ritter)",
+   "channel": "Ancient Faith",
+   "url": "https://www.youtube.com/watch?v=IgS-431mLpE"
+  }
  },
  {
   "id": "lydia",
@@ -337,7 +458,12 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/lydia.webp",
   "where": "Apostles tier, right side (8 of 8 from the Last Supper)",
-  "approx": false
+  "approx": false,
+  "video": {
+   "title": "Hall of Fame Christians: Saint Lydia (w/ Fr. Nicholas Louh)",
+   "channel": "Ancient Faith",
+   "url": "https://www.youtube.com/watch?v=Bj3wMa7loKk"
+  }
  },
  {
   "id": "phoebe",
@@ -350,7 +476,8 @@ const ENTRIES = [
   "tier": "apostles",
   "img": "img/icons/phoebe.webp",
   "where": "Apostles tier, left side (1 of 8 from the left)",
-  "approx": false
+  "approx": false,
+  "video": null
  }
 ];
 const SPOTS = [{"id": "last-supper", "x": 40.969, "y": 10.515, "w": 16.906, "h": 16.049, "entry": "last-supper", "label": "The Last Supper"}, {"id": "phoebe", "x": 0.062, "y": 19.424, "w": 2.906, "h": 8.91, "entry": "phoebe", "label": "St Phoebe"}, {"id": "matthias", "x": 4.281, "y": 19.424, "w": 3.438, "h": 8.91, "entry": "matthias", "label": "Apostle Matthias"}, {"id": "thomas", "x": 9.031, "y": 19.424, "w": 3.562, "h": 8.91, "entry": "thomas", "label": "Apostle Thomas"}, {"id": "bartholomew", "x": 14.062, "y": 19.424, "w": 3.969, "h": 8.91, "entry": "bartholomew", "label": "Apostle Bartholomew"}, {"id": "andrew", "x": 19.219, "y": 19.424, "w": 4.188, "h": 8.91, "entry": "andrew", "label": "Apostle Andrew"}, {"id": "luke", "x": 24.594, "y": 19.424, "w": 4.031, "h": 8.91, "entry": "luke", "label": "Apostle Luke"}, {"id": "matthew", "x": 29.75, "y": 19.424, "w": 4.156, "h": 8.91, "entry": "matthew", "label": "Apostle Matthew"}, {"id": "peter", "x": 34.906, "y": 19.424, "w": 4.156, "h": 8.91, "entry": "peter", "label": "Apostle Peter"}, {"id": "paul", "x": 59.25, "y": 19.59, "w": 4.094, "h": 8.965, "entry": "paul", "label": "Apostle Paul"}, {"id": "john-theologian", "x": 64.25, "y": 19.757, "w": 4.031, "h": 8.965, "entry": "john-theologian", "label": "Apostle John the Theologian"}, {"id": "mark", "x": 69.5, "y": 19.812, "w": 4.031, "h": 8.91, "entry": "mark", "label": "Apostle Mark"}, {"id": "simeon", "x": 74.406, "y": 19.48, "w": 4.062, "h": 9.131, "entry": "simeon", "label": "Apostle Simeon the Zealot"}, {"id": "james", "x": 79.812, "y": 19.037, "w": 4.656, "h": 8.744, "entry": "james", "label": "Apostle James"}, {"id": "philip", "x": 85.5, "y": 18.65, "w": 4.219, "h": 8.965, "entry": "philip", "label": "Apostle Philip"}, {"id": "timothy", "x": 91.062, "y": 18.262, "w": 4.031, "h": 8.633, "entry": "timothy", "label": "Apostle Timothy"}, {"id": "lydia", "x": 96.125, "y": 17.82, "w": 3.812, "h": 8.965, "entry": "lydia", "label": "St Lydia of Philippi"}, {"id": "thekla", "x": 1.375, "y": 36.137, "w": 4.469, "h": 21.14, "entry": "thekla", "label": "St Thekla"}, {"id": "nektarios", "x": 7.844, "y": 36.137, "w": 4.875, "h": 21.14, "entry": "nektarios", "label": "St Nektarios"}, {"id": "philip-deacon", "x": 15.344, "y": 36.137, "w": 5.688, "h": 21.14, "entry": "philip-deacon", "label": "St Philip the Deacon"}, {"id": "michael", "x": 23.531, "y": 36.137, "w": 6.125, "h": 21.14, "entry": "michael", "label": "St Michael"}, {"id": "theotokos", "x": 31.875, "y": 36.137, "w": 6.25, "h": 21.14, "entry": "theotokos", "label": "Our Lady"}, {"id": "doors", "x": 41.719, "y": 35.584, "w": 16.656, "h": 26.563, "label": "Royal Doors", "img": "img/church/doors.jpg", "note": "The Royal Doors in the centre of the iconostasis. The booklet does not have a page for them."}, {"id": "christ", "x": 59.75, "y": 35.916, "w": 6.281, "h": 22.081, "entry": "christ", "label": "Our Lord"}, {"id": "john-baptist", "x": 68.062, "y": 35.75, "w": 6.094, "h": 21.361, "entry": "john-baptist", "label": "St John the Baptist"}, {"id": "stephen", "x": 76.406, "y": 35.196, "w": 6.312, "h": 21.804, "entry": "stephen", "label": "St Stephen"}, {"id": "raphael", "x": 85.094, "y": 35.141, "w": 5.531, "h": 21.195, "entry": "raphael", "label": "St Raphael of Brooklyn"}, {"id": "christina", "x": 92.844, "y": 34.698, "w": 6.125, "h": 20.863, "entry": "christina", "label": "St Christina of Tyre"}];
