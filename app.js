@@ -61,7 +61,6 @@ function openView(kind,id){
   if(e){
     h+='<section class="entry"><h1>'+esc(e.name)+'</h1>'+(e.feast?'<p class="feast">Feast Day <b>|</b> '+esc(e.feast)+'</p>':'')+'<div class="orn"><span></span><i>&#9766;</i><span></span></div><p class="txt">'+esc(e.text)+'</p>'+(e.scripture?'<p class="scr">'+esc(e.scripture)+'</p>':'')+'</section>';
     h+='<p class="meta">On the iconostasis: '+esc(e.where)+(e.approx?' (place on the iconostasis is a best guess from the photo)':'')+'</p>';
-    if(e.video)h+='<section class="watch"><h2>Watch</h2><a class="watch-btn" href="'+esc(e.video.url)+'" target="_blank" rel="noopener"><span class="play" aria-hidden="true">&#9654;</span><span class="wt"><span class="wl">Watch: '+esc(e.video.title)+'</span><span class="wc">'+esc(e.video.channel)+' &middot; YouTube</span></span></a><p class="wn">Opens in YouTube (needs internet)</p></section>';
   } else {
     h+='<section class="entry"><h1>'+esc(s.label)+'</h1></section><p class="note">'+esc(s.note||'')+'</p>';
   }
