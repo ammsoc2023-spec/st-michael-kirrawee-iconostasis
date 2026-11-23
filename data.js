@@ -14,9 +14,9 @@ const ENTRIES = [
   "where": "Above the Royal Doors, crowning the iconostasis",
   "approx": false,
   "video": {
-   "title": "The Mystical Supper - Children's Animation",
-   "channel": "Trisagion Films for Children",
-   "url": "https://www.youtube.com/watch?v=SJejs2tvMy0"
+   "title": "2020 04 16 Holy Thursday Homily of His Beatitude Metropolitan Tikhon",
+   "channel": "Orthodox Church in America",
+   "url": "https://www.youtube.com/watch?v=BUnjOK9ukow"
   }
  },
  {
@@ -32,9 +32,9 @@ const ENTRIES = [
   "where": "Main tier, to the right of the Royal Doors",
   "approx": false,
   "video": {
-   "title": "The Birth of Jesus Christ",
-   "channel": "Antiochian Archdiocese",
-   "url": "https://www.youtube.com/watch?v=ylHcMGEzvI4"
+   "title": "The 2 Births of Jesus",
+   "channel": "Patristic Nectar",
+   "url": "https://www.youtube.com/watch?v=ViL9L4PFPWM"
   }
  },
  {
@@ -50,9 +50,9 @@ const ENTRIES = [
   "where": "Main tier, to the left of the Royal Doors",
   "approx": false,
   "video": {
-   "title": "When St. Mary fell asleep",
-   "channel": "Antiochian Archdiocese",
-   "url": "https://www.youtube.com/watch?v=Te0h-ZMqJdM"
+   "title": "A Secret Life - The Dormition of the Theotokos 2020",
+   "channel": "Patristic Nectar",
+   "url": "https://www.youtube.com/watch?v=1VDJ-g0DnAY"
   }
  },
  {
@@ -86,9 +86,9 @@ const ENTRIES = [
   "where": "Main tier, right side (2 of 5 from the Royal Doors)",
   "approx": false,
   "video": {
-   "title": "The Life of St. John the Forerunner and Baptist",
-   "channel": "Antiochian Archdiocese",
-   "url": "https://www.youtube.com/watch?v=XAi9e5C3iCE"
+   "title": "The Greatest Man",
+   "channel": "Patristic Nectar",
+   "url": "https://www.youtube.com/watch?v=InHlYElVDzI"
   }
  },
  {
@@ -104,9 +104,9 @@ const ENTRIES = [
   "where": "Main tier, left side (2 of 5 from the left)",
   "approx": false,
   "video": {
-   "title": "ST. NECTARIOS - God's Wondrous Saints, a podcast",
-   "channel": "Ancient Faith Kids",
-   "url": "https://www.youtube.com/watch?v=xzlB2DOAfdc"
+   "title": "St Nektarios on the Big Screen",
+   "channel": "Patristic Nectar",
+   "url": "https://www.youtube.com/watch?v=O25nRjjXS-I"
   }
  },
  {
@@ -122,9 +122,9 @@ const ENTRIES = [
   "where": "Main tier, right side (4 of 5 from the Royal Doors)",
   "approx": false,
   "video": {
-   "title": "The Life of St Raphael of Brooklyn | Animated Orthodox Film",
-   "channel": "Antiochian Archdiocese",
-   "url": "https://www.youtube.com/watch?v=33DRl2RaI-s"
+   "title": "Shepherd of America: St. Raphael of Brooklyn",
+   "channel": "Patristic Nectar",
+   "url": "https://www.youtube.com/watch?v=EhWQrlL4xCE"
   }
  },
  {
@@ -226,9 +226,9 @@ const ENTRIES = [
   "where": "Apostles tier, right side (1 of 8 from the Last Supper)",
   "approx": false,
   "video": {
-   "title": "St Paul's Sunday School: The Life of the Holy Apostle Paul",
-   "channel": "St Paul's Antiochian Orthodox Church Dandenong",
-   "url": "https://www.youtube.com/watch?v=VxX-266PN6w"
+   "title": "Apostles Fast, 2025: St. Paul",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=qqB9vWzX9Ng"
   }
  },
  {
@@ -244,9 +244,9 @@ const ENTRIES = [
   "where": "Apostles tier, right side (2 of 8 from the Last Supper)",
   "approx": false,
   "video": {
-   "title": "ST. JOHN the THEOLOGIAN - God's Wondrous Saints, a podcast",
-   "channel": "Ancient Faith Kids",
-   "url": "https://www.youtube.com/watch?v=1GBn05OvvJw"
+   "title": "Apostles Fast, 2025: St. John the Theologian",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=ph6m0ILXeHk"
   }
  },
  {
@@ -280,9 +280,9 @@ const ENTRIES = [
   "where": "Apostles tier, left side (6 of 8 from the left)",
   "approx": false,
   "video": {
-   "title": "St. Luke the Evangelist - by Presvytera Katie",
-   "channel": "Ancient Faith Kids",
-   "url": "https://www.youtube.com/watch?v=Tx4j8TjkeZ8"
+   "title": "The Life of St. Luke the Evangelist",
+   "channel": "Ancient Faith",
+   "url": "https://www.youtube.com/watch?v=hn1wDthpdIM"
   }
  },
  {
@@ -406,9 +406,9 @@ const ENTRIES = [
   "where": "Apostles tier, left side (3 of 8 from the left)",
   "approx": false,
   "video": {
-   "title": "ST. THOMAS the APOSTLE - God's Wondrous Saints, a podcast",
-   "channel": "Ancient Faith Kids",
-   "url": "https://www.youtube.com/watch?v=f_HIWf7rc68"
+   "title": "Apostles Fast, 2025: St. Thomas",
+   "channel": "St. Anthony Orthodox Christian Church",
+   "url": "https://www.youtube.com/watch?v=POLgrJwFj20"
   }
  },
  {
