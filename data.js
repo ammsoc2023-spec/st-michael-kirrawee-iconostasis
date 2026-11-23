@@ -104,9 +104,9 @@ const ENTRIES = [
   "where": "Main tier, left side (2 of 5 from the left)",
   "approx": false,
   "video": {
-   "title": "St Nektarios on the Big Screen",
-   "channel": "Patristic Nectar",
-   "url": "https://www.youtube.com/watch?v=O25nRjjXS-I"
+   "title": "A Wellspring of Humility - Saint Nektarios of Aegina",
+   "channel": "Trisagion Films",
+   "url": "https://www.youtube.com/watch?v=UVIrNU5yvAo"
   }
  },
  {
@@ -193,7 +193,11 @@ const ENTRIES = [
   "img": "img/icons/philip-deacon.webp",
   "where": "Main tier, left side (3 of 5 from the left)",
   "approx": false,
-  "video": null
+  "video": {
+   "title": "Homily on the Acts 8:26–39 Thursday of the Third Week",
+   "channel": "The Orthodox way",
+   "url": "https://www.youtube.com/watch?v=Vgjj8Jl1_oE"
+  }
  },
  {
   "id": "peter",
@@ -280,9 +284,9 @@ const ENTRIES = [
   "where": "Apostles tier, left side (6 of 8 from the left)",
   "approx": false,
   "video": {
-   "title": "The Life of St. Luke the Evangelist",
-   "channel": "Ancient Faith",
-   "url": "https://www.youtube.com/watch?v=hn1wDthpdIM"
+   "title": "The Holy Apostle LUKE the Evangelist",
+   "channel": "The Orthodox way",
+   "url": "https://www.youtube.com/watch?v=ZWepBxKi5pQ"
   }
  },
  {
@@ -424,9 +428,9 @@ const ENTRIES = [
   "where": "Apostles tier, right side (7 of 8 from the Last Supper)",
   "approx": false,
   "video": {
-   "title": "January 22 - St Timothy",
-   "channel": "Greek Orthodox Christian Society Sydney",
-   "url": "https://www.youtube.com/watch?v=7SvLL1HJgmo"
+   "title": "St. Timothy the Apostle - Life & Akathist",
+   "channel": "Orthodox Wisdom",
+   "url": "https://www.youtube.com/watch?v=Zz6IsUHu3h0"
   }
  },
  {
@@ -477,7 +481,11 @@ const ENTRIES = [
   "img": "img/icons/phoebe.webp",
   "where": "Apostles tier, left side (1 of 8 from the left)",
   "approx": false,
-  "video": null
+  "video": {
+   "title": "Homily on Rom. 16:1 – 16 Friday of the 5th Week after Pentecost",
+   "channel": "The Orthodox way",
+   "url": "https://www.youtube.com/watch?v=F5nvpG1hAGU"
+  }
  }
 ];
 const SPOTS = [{"id": "last-supper", "x": 40.969, "y": 10.515, "w": 16.906, "h": 16.049, "entry": "last-supper", "label": "The Last Supper"}, {"id": "phoebe", "x": 0.062, "y": 19.424, "w": 2.906, "h": 8.91, "entry": "phoebe", "label": "St Phoebe"}, {"id": "matthias", "x": 4.281, "y": 19.424, "w": 3.438, "h": 8.91, "entry": "matthias", "label": "Apostle Matthias"}, {"id": "thomas", "x": 9.031, "y": 19.424, "w": 3.562, "h": 8.91, "entry": "thomas", "label": "Apostle Thomas"}, {"id": "bartholomew", "x": 14.062, "y": 19.424, "w": 3.969, "h": 8.91, "entry": "bartholomew", "label": "Apostle Bartholomew"}, {"id": "andrew", "x": 19.219, "y": 19.424, "w": 4.188, "h": 8.91, "entry": "andrew", "label": "Apostle Andrew"}, {"id": "luke", "x": 24.594, "y": 19.424, "w": 4.031, "h": 8.91, "entry": "luke", "label": "Apostle Luke"}, {"id": "matthew", "x": 29.75, "y": 19.424, "w": 4.156, "h": 8.91, "entry": "matthew", "label": "Apostle Matthew"}, {"id": "peter", "x": 34.906, "y": 19.424, "w": 4.156, "h": 8.91, "entry": "peter", "label": "Apostle Peter"}, {"id": "paul", "x": 59.25, "y": 19.59, "w": 4.094, "h": 8.965, "entry": "paul", "label": "Apostle Paul"}, {"id": "john-theologian", "x": 64.25, "y": 19.757, "w": 4.031, "h": 8.965, "entry": "john-theologian", "label": "Apostle John the Theologian"}, {"id": "mark", "x": 69.5, "y": 19.812, "w": 4.031, "h": 8.91, "entry": "mark", "label": "Apostle Mark"}, {"id": "simeon", "x": 74.406, "y": 19.48, "w": 4.062, "h": 9.131, "entry": "simeon", "label": "Apostle Simeon the Zealot"}, {"id": "james", "x": 79.812, "y": 19.037, "w": 4.656, "h": 8.744, "entry": "james", "label": "Apostle James"}, {"id": "philip", "x": 85.5, "y": 18.65, "w": 4.219, "h": 8.965, "entry": "philip", "label": "Apostle Philip"}, {"id": "timothy", "x": 91.062, "y": 18.262, "w": 4.031, "h": 8.633, "entry": "timothy", "label": "Apostle Timothy"}, {"id": "lydia", "x": 96.125, "y": 17.82, "w": 3.812, "h": 8.965, "entry": "lydia", "label": "St Lydia of Philippi"}, {"id": "thekla", "x": 1.375, "y": 36.137, "w": 4.469, "h": 21.14, "entry": "thekla", "label": "St Thekla"}, {"id": "nektarios", "x": 7.844, "y": 36.137, "w": 4.875, "h": 21.14, "entry": "nektarios", "label": "St Nektarios"}, {"id": "philip-deacon", "x": 15.344, "y": 36.137, "w": 5.688, "h": 21.14, "entry": "philip-deacon", "label": "St Philip the Deacon"}, {"id": "michael", "x": 23.531, "y": 36.137, "w": 6.125, "h": 21.14, "entry": "michael", "label": "St Michael"}, {"id": "theotokos", "x": 31.875, "y": 36.137, "w": 6.25, "h": 21.14, "entry": "theotokos", "label": "Our Lady"}, {"id": "doors", "x": 41.719, "y": 35.584, "w": 16.656, "h": 26.563, "label": "Royal Doors", "img": "img/church/doors.jpg", "note": "The Royal Doors in the centre of the iconostasis. The booklet does not have a page for them."}, {"id": "christ", "x": 59.75, "y": 35.916, "w": 6.281, "h": 22.081, "entry": "christ", "label": "Our Lord"}, {"id": "john-baptist", "x": 68.062, "y": 35.75, "w": 6.094, "h": 21.361, "entry": "john-baptist", "label": "St John the Baptist"}, {"id": "stephen", "x": 76.406, "y": 35.196, "w": 6.312, "h": 21.804, "entry": "stephen", "label": "St Stephen"}, {"id": "raphael", "x": 85.094, "y": 35.141, "w": 5.531, "h": 21.195, "entry": "raphael", "label": "St Raphael of Brooklyn"}, {"id": "christina", "x": 92.844, "y": 34.698, "w": 6.125, "h": 20.863, "entry": "christina", "label": "St Christina of Tyre"}];
